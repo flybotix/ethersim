@@ -1,0 +1,16 @@
+{"apps":[
+	{
+		"name":"jvncalc",
+		"ver":"0.1",
+		"md5":"N/A",
+		"url":"",
+		"load":"fxsandbox.framework.testing.TestApp1"
+	},
+	{
+		"name":"app2",
+		"ver":"0.0a",
+		"md5":"abcdef0123456789",
+		"url":"",
+		"load":"java.package.Class"
+	}
+]}

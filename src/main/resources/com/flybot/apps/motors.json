@@ -1,0 +1,42 @@
+{"motors":[
+	{
+		"name": 			"CIM (2014)",
+		"voltage": 			12.0,
+		"free_speed":		5310,
+		"stall_torque":		2.42,
+		"stall_current":	133,
+		"free_current": 	2.7
+	},
+	{
+		"name": 			"Mini CIM (2014)",
+		"voltage": 			12.0,
+		"free_speed":		6200,
+		"stall_torque":		1.4,
+		"stall_current":	86,
+		"free_current": 	1.5
+	},
+	{
+		"name": 			"VEX Bag (2014)",
+		"voltage": 			12.0,
+		"free_speed":		14000,
+		"stall_torque":		0.4,
+		"stall_current":	41,
+		"free_current": 	1.8
+	},
+	{
+		"name": 			"(1)CIM + (1) Mini-CIM",
+		"voltage": 			12.0,
+		"free_speed":		5755,
+		"stall_torque":		3.82,
+		"stall_current":	219,
+		"free_current": 	4.2
+	},
+	{
+		"name": 			"(2)CIMs + (1) Mini-CIM",
+		"voltage": 			12.0,
+		"free_speed":		5606,
+		"stall_torque":		6.24,
+		"stall_current":	352,
+		"free_current": 	6.9
+	}
+]}

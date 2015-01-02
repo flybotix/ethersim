@@ -1,0 +1,106 @@
+{"wheels":[
+	{
+		"type":"AndyMark Hi-Grip",
+		"provider":"AndyMark",
+		"diameters":[4,6],
+		"widths":[0.875],
+		"us":1.067,
+		"uk":0.7
+	},
+	{
+		"type":"Colson",
+		"provider":"VEX Pro",
+		"diameters":[4,5,6,8,10],
+		"widths":[1.25,1.5,2],
+		"us":1.1,
+		"uk":0.7
+	},
+	{
+		"type":"VersaWheel",
+		"provider":"Vex PRO",
+		"diameters":[4],
+		"widths":[1.25],
+		"us":1.3,
+		"uk":0.7
+	},
+	{
+		"type":"VersaWheel DT",
+		"provider":"Vex PRO",
+		"diameters":[4,3.25],
+		"widths":[1.25],
+		"us":1.0,
+		"uk":0.7
+	},
+	{
+		"type":"VEX Pro us",
+		"provider":"Vex PRO",
+		"diameters":[4,6,8],
+		"widths":[1.0,1.5,2.0],
+		"us":1.1,
+		"uk":0.7
+	},
+	{
+		"type":"VEX Pro Omni",
+		"provider":"Vex PRO",
+		"diameters":[4,6,8],
+		"widths":[0.5,1.0],
+		"us":1.1,
+		"uk":0.7
+	},
+	{
+		"type":"VEX Pro Mecanum",
+		"provider":"Vex PRO",
+		"diameters":[4,6,8],
+		"widths":[1.0],
+		"us":1.0,
+		"uk":0.7
+	},
+	{
+		"type":"AndyMark Plaction",
+		"provider":"AndyMark",
+		"diameters":[4,6,8],
+		"widths":[1.0],
+		"us":1.1,
+		"uk":0.7
+	},
+	{
+		"type":"AndyMark Performance",
+		"provider":"AndyMark",
+		"diameters":[4,6,8],
+		"widths":[1.0],
+		"us":1.1,
+		"uk":0.7
+	},
+	{
+		"type":"AndyMark Omni",
+		"provider":"AndyMark",
+		"diameters":[4,6,8],
+		"widths":[1.0],
+		"us":1.0,
+		"uk":0.7
+	},
+	{
+		"type":"AndyMark Pneumatic",
+		"provider":"AndyMark",
+		"diameters":[7.65],
+		"widths":[2.0],
+		"us":0.93,
+		"uk":0.7
+	},
+	{
+		"type":"AndyMark Omni",
+		"provider":"AndyMark",
+		"diameters":[4,6,8],
+		"widths":[1.0],
+		"us":1.0,
+		"uk":0.7
+	},
+	{
+		"type":"KOP / Skyway",
+		"provider":"AndyMark",
+		"diameters":[4,6,8],
+		"widths":[1.25],
+		"us":0.95,
+		"uk":0.7
+	},
+]}
